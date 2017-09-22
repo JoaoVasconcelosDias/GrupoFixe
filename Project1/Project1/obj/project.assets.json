@@ -13110,6 +13110,11 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
+      "Microsoft.AspNetCore.Authentication.Cookies >= 2.0.0",
+      "Microsoft.AspNetCore.Authentication.Facebook >= 2.0.0",
+      "Microsoft.AspNetCore.Authentication.Google >= 2.0.0",
+      "Microsoft.AspNetCore.Authentication.MicrosoftAccount >= 2.0.0",
+      "Microsoft.AspNetCore.Authentication.OAuth >= 2.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
@@ -13126,11 +13131,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpvas\\source\\repos\\Project1\\Project1\\Project1.csproj",
+      "projectUniqueName": "C:\\Users\\jpvas\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "C:\\Users\\jpvas\\source\\repos\\Project1\\Project1\\Project1.csproj",
+      "projectPath": "C:\\Users\\jpvas\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\Project1.csproj",
       "packagesPath": "C:\\Users\\jpvas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpvas\\source\\repos\\Project1\\Project1\\obj\\",
+      "outputPath": "C:\\Users\\jpvas\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13160,6 +13165,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Cookies": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
+          "Microsoft.AspNetCore.Authentication.Facebook": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "suppressParent": "All",
             "target": "Package",
@@ -13170,10 +13183,22 @@
             "target": "Package",
             "version": "2.0.0"
           },
+          "Microsoft.AspNetCore.Authentication.MicrosoftAccount": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "2.0.0",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Authentication.OAuth": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
+          "Microsoft.AspNetCore.Authentication.Google": {
+            "target": "Package",
+            "version": "2.0.0"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
