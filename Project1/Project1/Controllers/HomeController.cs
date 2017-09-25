@@ -15,7 +15,7 @@ namespace Project1.Controllers
 {
     public class HomeController : Controller
     {
-        public static object CodeDomProvider { get; private set; }
+        
 
         public IActionResult Index()
         {
