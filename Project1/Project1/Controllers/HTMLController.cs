@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Project1.Data;
 using Project1.Models;
+using PagedList;
+
 
 namespace Project1.Controllers
 {

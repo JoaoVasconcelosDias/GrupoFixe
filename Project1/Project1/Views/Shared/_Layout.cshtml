@@ -24,14 +24,6 @@
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
-                    
-                    <ul class="dropdown-menu" role="menu">
-                        <li><a href="#">Quiz</a></li>
-                        <li><a href="#">Tutorials</a></li>
-                        <li><a href="#">Forum</a></li>
-                        <li><a href="#">Certification</a></li>
-                    </ul>
-
                     <span class="icon-bar"></span>
 
 
@@ -41,9 +33,36 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("HTML & CSS", "Index", "HTML")</li>
-                    <li>@Html.ActionLink("Javascript", "Index", "Home")</li>
-                    <li>@Html.ActionLink("C#", "Index", "Home")</li>
+                    <li>@Html.ActionLink("HTML & CSS", "Index", "HTML & CSS")</li>
+                        <li>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="#">Quiz</a></li>
+                                <li><a href="#">Tutorials</a></li>
+                                <li><a href="#">Forum</a></li>
+                                <li><a href="#">Certification</a></li>
+                            </ul>       
+                        </li>
+                    <li>@Html.ActionLink("Javascript", "Index", "Javascript")</li>
+                        <li>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="#">Quiz</a></li>
+                                <li><a href="#">Tutorials</a></li>
+                                <li><a href="#">Forum</a></li>
+                                <li><a href="#">Certification</a></li>
+                            </ul>
+                        </li>
+
+
+                    <li>@Html.ActionLink("C#", "Index", "C#")</li>
+                    <li>
+                        <ul>
+                            class="dropdown-menu" role="menu">
+                            <li><a href="#">Quiz</a></li>
+                            <li><a href="#">Tutorials</a></li>
+                            <li><a href="#">Forum</a></li>
+                            <li><a href="#">Certification</a></li>
+                        </ul>
+                    </li>
                 </ul>
                 @await Html.PartialAsync("_LoginPartial")
             </div>
@@ -53,7 +72,14 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; 2017 - Project1</p>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("About", "About", "Home", new { Id = "test1" })</li>
+                    <li>@Html.ActionLink("Certification", "Certification", "Home")</li>
+                </ul>
+            </div>
+
+                    <p>&copy; 2017 - Project1</p>
         </footer>
     </div>
 

@@ -17,8 +17,8 @@ C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\bin\Debug\netcoreap
 C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\bin\Debug\netcoreapp2.0\Project1.pdb
 C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.csprojResolveAssemblyReference.cache
 C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.csproj.CoreCompileInputs.cache
-C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
 C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.AssemblyInfoInputs.cache
 C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.AssemblyInfo.cs
 C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.dll
 C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\obj\Debug\netcoreapp2.0\Project1.pdb
+C:\Users\altar3\Documents\GitHub\GrupoFixe\Project1\Project1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
