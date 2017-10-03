@@ -1,0 +1,22 @@
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.deps.json
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.runtimeconfig.json
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.runtimeconfig.dev.json
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.dll
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.csprojResolveAssemblyReference.cache
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.csproj.CoreCompileInputs.cache
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.AssemblyInfoInputs.cache
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.AssemblyInfo.cs
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.pdb
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.dll
+C:\Users\altar8\Documents\Visual Studio 2017\Projects\Consola-experiment\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.pdb
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.deps.json
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.runtimeconfig.json
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.runtimeconfig.dev.json
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.dll
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\bin\Debug\netcoreapp2.0\Consola-experiment.pdb
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.csprojResolveAssemblyReference.cache
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.csproj.CoreCompileInputs.cache
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.AssemblyInfoInputs.cache
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.AssemblyInfo.cs
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.dll
+C:\Users\altar8\Documents\GitHub\GrupoFixe\Project1\Consola-experiment\obj\Debug\netcoreapp2.0\Consola-experiment.pdb
