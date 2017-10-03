@@ -13110,11 +13110,6 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
-      "Microsoft.AspNetCore.Authentication.Cookies >= 2.0.0",
-      "Microsoft.AspNetCore.Authentication.Facebook >= 2.0.0",
-      "Microsoft.AspNetCore.Authentication.Google >= 2.0.0",
-      "Microsoft.AspNetCore.Authentication.MicrosoftAccount >= 2.0.0",
-      "Microsoft.AspNetCore.Authentication.OAuth >= 2.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
@@ -13122,7 +13117,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jpvas\\.nuget\\packages\\": {},
+    "C:\\Users\\altar7\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13131,17 +13126,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpvas\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\Project1.csproj",
+      "projectUniqueName": "C:\\Users\\altar7\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "C:\\Users\\jpvas\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\Project1.csproj",
-      "packagesPath": "C:\\Users\\jpvas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpvas\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\obj\\",
+      "projectPath": "C:\\Users\\altar7\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\Project1.csproj",
+      "packagesPath": "C:\\Users\\altar7\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\altar7\\Documents\\GitHub\\GrupoFixe\\Project1\\Project1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jpvas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\altar7\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13165,14 +13160,6 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.Cookies": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
-          "Microsoft.AspNetCore.Authentication.Facebook": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "suppressParent": "All",
             "target": "Package",
@@ -13183,22 +13170,10 @@
             "target": "Package",
             "version": "2.0.0"
           },
-          "Microsoft.AspNetCore.Authentication.MicrosoftAccount": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "2.0.0",
             "autoReferenced": true
-          },
-          "Microsoft.AspNetCore.Authentication.OAuth": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
-          "Microsoft.AspNetCore.Authentication.Google": {
-            "target": "Package",
-            "version": "2.0.0"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",

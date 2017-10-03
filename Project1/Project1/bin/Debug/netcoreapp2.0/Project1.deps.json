@@ -24,11 +24,6 @@
       "Project1/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.0",
-          "Microsoft.AspNetCore.Authentication.Cookies": "2.0.0",
-          "Microsoft.AspNetCore.Authentication.Facebook": "2.0.0",
-          "Microsoft.AspNetCore.Authentication.Google": "2.0.0",
-          "Microsoft.AspNetCore.Authentication.MicrosoftAccount": "2.0.0",
-          "Microsoft.AspNetCore.Authentication.OAuth": "2.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
           "Microsoft.NETCore.App": "2.0.0",
