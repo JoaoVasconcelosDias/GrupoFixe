@@ -21,5 +21,6 @@ namespace Project1
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+
     }
 }

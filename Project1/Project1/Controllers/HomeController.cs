@@ -16,7 +16,6 @@ namespace Project1.Controllers
             return View();
         }
 
-        [Authorize(Roles = "Admin")]
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
@@ -27,6 +26,14 @@ namespace Project1.Controllers
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
+
+            return View();
+        }
+
+        [Authorize(Roles = "Admin")]
+        public IActionResult Certification()
+        {
+            ViewData["Message"] = "Companies contact page.";
 
             return View();
         }
