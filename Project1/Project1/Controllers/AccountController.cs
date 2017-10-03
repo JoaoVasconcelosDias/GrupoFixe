@@ -265,14 +265,14 @@ namespace Project1.Controllers
                 var result = await _userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    if (!await _roleManager.RoleExistsAsync("Admin"))
+                    if (!await _roleManager.RoleExistsAsync("User"))
                     {
-                        var role = new IdentityRole("Admin");
+                        var role = new IdentityRole("User");
                         var res = await _roleManager.CreateAsync(role);
 
                         if (res.Succeeded)
                         {
-                            await _userManager.AddToRoleAsync(user, "Admin");
+                            await _userManager.AddToRoleAsync(user, "User");
 
                             _logger.LogInformation("User created a new account with password.");
 
