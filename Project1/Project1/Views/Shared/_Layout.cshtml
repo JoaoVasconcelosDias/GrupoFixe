@@ -29,15 +29,19 @@
                             <span class="caret"></span>
                         </button>
                         <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-                            @Html.ActionLink("Quiz", "Index", "Quiz")
-                            <br />
-                            @Html.ActionLink("Videos", "Index", "Videos")
-                            <br />
-                            @Html.ActionLink("Forum", "Index", "Forum")
-                            <br />
+                            <li>
+                                @Html.ActionLink("Quiz", "Index", "Quiz")
+                            </li>
+                            <li>
+                                @Html.ActionLink("Videos", "Index", "Videos")
+                            </li>
+                            <li>
+                                @Html.ActionLink("Forum", "Index", "Forum")
+                            </li>
                             <li role="presentation" class="divider"></li>
-                            @Html.ActionLink("Certification", "Certification", "Home")
-                            <br />
+                                <li>
+                                @Html.ActionLink("Certification", "Certification", "Home")
+                                </li>
                         </ul>
                     </div>
 
@@ -47,17 +51,21 @@
                             <span class="caret"></span>
                         </button>
                         <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-                            @Html.ActionLink("Quiz", "Index", "Quiz")
-                            <br >
-                            @Html.ActionLink("Videos", "Index", "Videos")
-                            <br>
-                            @Html.ActionLink("Forum", "Index", "Forum")
-                            <br />
+                            <li>
+                                @Html.ActionLink("Quiz", "Index", "Quiz")
+                            </li>
+                            <li>
+                                @Html.ActionLink("Videos", "Index", "Videos")
+                            </li>
+                            <li>
+                                @Html.ActionLink("Forum", "Index", "Forum")
+                            </li>
                             <li role="presentation" class="divider"></li>
-                            @Html.ActionLink("Certification", "Certification", "Home")
-                            <br />
+                            <li>
+                                @Html.ActionLink("Certification", "Certification", "Home")
+                            </li>
                         </ul>
-                    </div>
+                    </div> 
 
                     <div class="dropdown">
                         <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">
@@ -65,18 +73,22 @@
                             <span class="caret"></span>
                         </button>
                         <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-                            @Html.ActionLink("Quiz", "Index", "Quiz")
-                            <br />
-                            @Html.ActionLink("Videos", "Index", "Videos")
-                            <br />
-                            @Html.ActionLink("Forum", "Index", "Forum")
-                            <br />
+                            <li>
+                                @Html.ActionLink("Quiz", "Index", "Quiz")
+                            </li>
+                            <li>
+                                @Html.ActionLink("Videos", "Index", "Videos")
+                            </li>
+                            <li>
+                                @Html.ActionLink("Forum", "Index", "Forum")
+                            </li>
                             <li role="presentation" class="divider"></li>
-                            @Html.ActionLink("Certification", "Certification", "Home")
-                            <br />
+                            <li>
+                                @Html.ActionLink("Certification", "Certification", "Home")
+                            </li>
                         </ul>
-                    </div>
-                </div>   
+                    </div>  
+                </div>
             </ul>
             <form asp-action="Index" method="get">
                 <div class="form-actions no-color">
@@ -89,7 +101,8 @@
             </form>
             @await Html.PartialAsync("_LoginPartial")
             </div>
-        </div>
+        
+
     </nav>
     <div class="container body-content">
         @RenderBody()

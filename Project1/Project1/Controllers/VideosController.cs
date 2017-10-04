@@ -57,7 +57,7 @@ namespace Project1.Controllers
                     break;            
             }
 
-            int pageSize = 3;
+            int pageSize = 3; //change the size of this page, in case there are more than 3 videos
             return View(await PaginatedList<Videos>.CreateAsync(videos.AsNoTracking(), page ?? 1, pageSize));
         }
 
