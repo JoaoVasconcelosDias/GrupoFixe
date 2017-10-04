@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "4f0e14f12a972222adc8e6f9a154aa5d3c07212d"
+    "signature": "e010fd552bcdcb717937a73fe4700fdeeeeae720"
   },
   "compilationOptions": {
     "defines": [
@@ -27,7 +27,8 @@
           "Microsoft.AspNetCore.All": "2.0.0",
           "Microsoft.CodeAnalysis.CSharp.Scripting": "2.3.2",
           "Microsoft.NETCore.App": "2.0.0",
-          "Microsoft.Net.Compilers": "2.3.2"
+          "Microsoft.Net.Compilers": "2.3.2",
+          "TinyMCE": "4.6.7"
         },
         "runtime": {
           "Consola-experiment.dll": {}
@@ -3919,6 +3920,7 @@
           "System.Xml.XPath": "4.3.0"
         }
       },
+      "TinyMCE/4.6.7": {},
       "WindowsAzure.Storage/8.1.4": {
         "dependencies": {
           "Microsoft.Data.OData": "5.8.2",
@@ -6167,6 +6169,13 @@
       "sha512": "sha512-jw9oHHEIVW53mHY9PgrQa98Xo2IZ0ZjrpdOTmtvk+Rvg4tq7dydmxdNqUvJ5YwjDqhn75mBXWttWjiKhWP53LQ==",
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    },
+    "TinyMCE/4.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x12kAvZugxQ7XirpXOzMfFf8yKRxovz01Hylv9wTnWJFI731RVQagEGn6zcVq5S8FXdKYP6CW/DHLw9VYCZOGg==",
+      "path": "tinymce/4.6.7",
+      "hashPath": "tinymce.4.6.7.nupkg.sha512"
     },
     "WindowsAzure.Storage/8.1.4": {
       "type": "package",
